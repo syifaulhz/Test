@@ -1,0 +1,1 @@
+<?php header('F:Server Web/Freetime: /index.html') ; ?>
